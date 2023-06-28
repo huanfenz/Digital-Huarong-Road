@@ -10,7 +10,8 @@
 
 ## 效果演示
 
-![](http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202205262203196.png)
+![hrd](https://github.com/huanfenz/Digital-Huarong-Road/assets/49386166/7046a807-1334-4b50-831a-9f37ea96ae8f)
+
 
 ## 代码分析
 
